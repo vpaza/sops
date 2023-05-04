@@ -1,4 +1,4 @@
-baseURL = 'https://docs.vzanartcc.net/'
+baseURL = 'https://sops.vzanartcc.net/'
 languageCode = 'en-us'
 title = 'Anchorage ARTCC'
 theme = 'hugo-book'
@@ -52,7 +52,7 @@ defaultContentLanguage = "en"
 
   # Set source repository location.
   # Used for 'Last Modified' and 'Edit this page' links.
-  BookRepo = 'https://github.com/vzanartcc/sops'
+  BookRepo = 'https://github.com/vpaza/sops'
 
   # (Optional, default 'commit') Specifies commit portion of the link to the page's last modified
   # commit hash for 'doc' page type.
@@ -64,7 +64,7 @@ defaultContentLanguage = "en"
   # Enable "Edit this page" links for 'doc' page type.
   # Disabled by default. Uncomment to enable. Requires 'BookRepo' param.
   # Edit path must point to root directory of repo.
-  BookEditPath = 'edit/main/exampleSite'
+  BookEditPath = 'tree/main'
 
   # Configure the date format used on the pages
   # - In git information
