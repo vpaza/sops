@@ -1,0 +1,22 @@
+<p>
+  <b>TAF:</b> <pre id="taf">Loading</pre>
+</p>
+
+<script type="text/javascript">
+async function getTAF() {
+  const response = await fetch("https://api.vzanartcc.net/v1/proxy/taf/{{ .Get 0 }}");
+  const taf = await response.json();
+  // Clean up the timestamp and "TAF" lines, then remove padding
+  const lines = taf.split('\n');
+  lines.splice(0, 2);
+  lines.map((line, i) => {
+    // Remove padding
+    lines[i] = line.trim();
+  });
+  document.getElementById("taf").innerHTML = lines.join('\n');
+}
+document.addEventListener("DOMContentLoaded", () => {
+  getTAF();
+  setInterval(getTAF, 5 * 60000);
+});
+</script>

@@ -5,7 +5,9 @@ title: "Anchorage/Lake Hood Air Traffic Control Tower"
 
 # Anchorage Air Traffic Control Tower
 
-{{< toc >}}
+{{< metar "PANC" >}}
+
+{{< taf "PANC" >}}
 
 ## Positions
 
