@@ -1,0 +1,16 @@
+- position: ANC_DEL
+  abbreviation: ANC CD
+  name: Anchorage Delivery
+  frequency: 119.4
+- position: ANC_GND
+  abbreviation: ANC GC
+  name: Anchorage Ground
+  frequency: 121.9
+- position: ANC_TWR
+  abbreviation: ANC LC
+  name: Anchorage Tower
+  frequency: 118.3
+- position: LHD_TWR
+  abbreviation: LHD LC
+  name: Lake Hood Tower
+  frequency: 126.8

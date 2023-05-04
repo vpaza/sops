@@ -1,0 +1,22 @@
+{{ $data := index .Site.Data.positions (.Get 0) }}
+
+<table>
+  <thead>
+    <tr>
+      <th>Position</th>
+      <th>Name</th>
+      <th>Abbreviation</th>
+      <th>Frequency</th>
+    </tr>
+  </thead>
+  <tbody>
+  {{ range $data }}
+    <tr>
+      <td>{{ .position }}</td>
+      <td>{{ .name }}</td>
+      <td>{{ .abbreviation }}</td>
+      <td>{{ .frequency }}</td>
+    </tr>
+  {{ end }}
+  </tbody>
+</table>

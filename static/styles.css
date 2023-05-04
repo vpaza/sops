@@ -1,0 +1,10 @@
+figure .wrapper-with-intrinsic-ratio {
+  position: relative;
+  height: 0;
+}
+
+figure figcaption {
+  text-align: center;
+  font-weight: 400;
+  color: #80889b;
+}
