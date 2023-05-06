@@ -1,9 +1,13 @@
 ---
 weight: 1
-title: "Anchorage/Lake Hood Air Traffic Control Tower"
+title: "Anchorage/Lake Hood ATCT"
 ---
 
-# Anchorage Air Traffic Control Tower
+# Anchorage ATCT
+
+## General Info
+
+{{< attendance "ANC" >}}
 
 {{< metar "PANC" >}}
 
@@ -11,7 +15,7 @@ title: "Anchorage/Lake Hood Air Traffic Control Tower"
 
 ## Positions
 
-{{< positions "panc" >}}
+{{< positions "ANC" >}}
 
 ## General Notes
 
@@ -23,9 +27,9 @@ title: "Anchorage/Lake Hood Air Traffic Control Tower"
    1. Initial altitude is 4,000 feet
    2. All aircraft should be assigned a SID appropriate for the active runways. Aircraft unable to accept a SID should be assigned a heading and altitude that mirrors that of the ANC # SID.
       1. Example (Runway 33 Departure): "Alaska 50, Cleared to the Barrow Airport as filed. On departure, fly runway heading. Passing through 600, turn left heading 301. Maintain 4000. Expect FL360 10 minutes after departure. Departure frequency 118.6. Squawk 1234."
-   3. Departure Frequencies, when both sectors are opened:
+   3. Departure Frequencies, when both sectors are opened (with pronunciations):
       1. ANC# (Anchorage #) - 118.6 (North Radar)
-      2. FFITZ# (Fitz #) - 126.4 (South Radar)
+      2. FFITZ# (Fits #) - 126.4 (South Radar)
       3. KNIK# (Ka-nick #) - 118.6 (North Radar)
       4. NOEND# (No End #) - 118.6 (North Radar)
       5. POTTER# (Potter #) - 126.4 (South Radar)
@@ -53,6 +57,11 @@ title: "Anchorage/Lake Hood Air Traffic Control Tower"
 
 1. Retains control of ground traffic between the 7/25 parallels and west of Runway 15/33
 2. Ensure aircraft commence the first turn of the SID prior to switching to departure
+3. All aircraft are assumed released for departure unless otherwise coordinated with the radar controller
+4. Unless otherwise coordinated, missed approach instructions shall be the published missed approach. FR may issue the following:
+   1. Runway 7L/7R/15: Leaving 600, turn right heading 200. Climb and maintain 2500.
+   2. Runway 25L/25R: Fly heading 250, climb and maintain 2500.
+   3. Runway 33: Leaving 600, turn left heading 300. Climb and maintain 2500.
 
 ### Runway selection guidance
 
@@ -74,7 +83,7 @@ Primary runways are based on traffic, forecasted wind, weather and neighboring t
 ### Primary Diverse Vector Area
 
 Primary Diverse Vector Area defines departure headings for IFR departures may be issued for operational efficiency as listed. These headings must be coordinated with,
-but not need approval from, the appropriate departure controller. LC sohudl take care to ensure there is no conflicting traffic by utilzing the Tower Display Workstation (TDW).
+but not need approval from, the appropriate departure controller. LC should take care to ensure there is no conflicting traffic by utilizing the Tower Display Workstation (TDW).
 
 1. Runway 7L: Right turn 206 clockwise to 253, left turn 254 clockwise to 004.
 2. Runway 7R: Not authorized
@@ -97,7 +106,7 @@ but not need approval from, the appropriate departure controller. LC sohudl take
 LC is delegated airspace as depicted from surface up to and including 2,500 feet MSL.
 This area is defined as 090 bearing from the ANC ATCT to New Seward Highway, then
 south along New Seward Highway to a 5.2 nautical mile radius, then clockwise along the
-5.2nm radius to the EDF runway 6 localizer, then east along the localizer to a line that
+5.2 nm radius to the EDF runway 6 localizer, then east along the localizer to a line that
 extends from Pt McKenzie direct to the Mouth of Fish Creek, then direct to the Northern
 Lights Blvd railroad bridge, then direct to the intersection of Tudor Road and New
 Seward Highway, then along New Seward Highway back to the starting point.

@@ -3,26 +3,18 @@ headless = true
 +++
 
 - [Home](/)
-- Terminal
-  - Allen/Ft Greely (Soon)
+- Air Traffic Control Towers
   - [Anchorage/Lake Hood](docs/terminal/panc)
-  - Bethel (Soon)
-  - Eilson (Soon)
-  - Elmendorf (Soon)
-  - Fairbanks
-  - Juneau
-  - Kenai (Soon)
-  - King Salmon (Soon)
-  - Kodiak
-  - Ladd (Soon)
-  - Merrill (Soon)
+  - [Fairbanks](docs/terminal/pafa)
+  - [Juneau](docs/terminal/pajn)
+  - [Kodiak](docs/terminal/padq)
 - Approach Controls
-  - Anchorage
-  - Fairbanks
+  - [Anchorage (A11)](docs/approaches/a11)
+  - [Fairbanks](docs/approaches/fai)
 - Enroute
-  - General
-  - Central Area
-  - North Area
-  - South Area
-  - West Area
-  - Oceanic
+  - [General](docs/enroute)
+  - [Central Area](docs/enroute/central)
+  - [North Area](docs/enroute/north)
+  - [South Area](docs/enroute/south)
+  - [West Area](docs/enroute/west)
+  - [Oceanic](docs/enroute/oceanic)

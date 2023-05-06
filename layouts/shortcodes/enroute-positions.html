@@ -1,0 +1,59 @@
+{{- $area := .Get "area" -}}
+{{- $areas := slice -}}
+{{- $data := slice -}}
+{{- if (eq $area "all") -}}
+  {{- $areas = index .Site.Data.facilities.facilities.enroute -}}
+{{- else -}}
+  {{- $data = index .Site.Data.facilities.facilities.enroute $area -}}
+{{- end -}}
+
+<table>
+  <thead>
+    <tr>
+    {{- if $areas -}}
+      <th>Area</th>
+    {{- end -}}
+      <th>Position</th>
+      <th>Sector</th>
+      <th>Frequency</th>
+      <th>High Freq.</th>
+    </tr>
+  </thead>
+  <tbody>
+  {{- if $areas -}}
+    {{- range $i, $v := $areas -}}
+      {{- $first := 1 -}}
+      {{- range $v -}}
+        <tr>
+          {{- if $first -}}
+            {{- $first = 0 -}}
+            <td>{{ $i }}</td>
+          {{- else -}}
+            <td></td>
+          {{- end -}}
+          <td>{{- .position -}}</td>
+          <td>
+            {{- .sector -}}
+            {{- if .primary -}}&nbsp;**{{- end -}}
+          </td>
+          <td>{{- .frequency -}}</td>
+          <td>{{- .hf_frequency -}}</td>
+        </tr>
+      {{- end -}}  
+    {{- end -}}
+  {{- else -}}
+    {{- range $data -}}
+      <tr>
+        <td>{{- .position -}}</td>
+        <td>
+            {{- .sector -}}
+            {{- if .primary -}}&nbsp;**{{- end -}}
+          </td>
+        <td>{{- .frequency -}}</td>
+        <td>{{- .hf_frequency -}}</td>
+      </tr>
+    {{- end -}}
+  {{- end -}}
+  </tbody>
+</table>
+** denotes the primary sector for the area
