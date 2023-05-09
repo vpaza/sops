@@ -18,3 +18,5 @@ headless = true
   - [South Area](docs/enroute/south)
   - [West Area](docs/enroute/west)
   - [Oceanic](docs/enroute/oceanic)
+- Letters of Agreement
+  - [CZEG](docs/loas/czeg)

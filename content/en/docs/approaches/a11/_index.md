@@ -83,3 +83,7 @@ The primary position is `A11 NR` and that position shall be opened before any ot
 ### NR/SR Landing Runway 25L/25R or 33
 
 {{< image width="80%" link="./r25-33-nr-sr.png" caption="NR/SR Landing Runway 25L/25R or 33" >}}
+
+### A11 Gate Map
+
+{{< image link="./a11_arrivals.png" width="80%" caption="A11 Arrivals" >}}

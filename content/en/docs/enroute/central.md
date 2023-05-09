@@ -60,7 +60,7 @@ No general notes
       1. RNAV Runway 2:
          1. You'll need to utilize TAAs to get them low enough to commence the approach, or
          2. Issue holding instructions at FACAD and descend them in the hold before issuing the approach
-      2. Utilize airways to get them low enough to commence approach from the VOR or FAAs, V440 eastbound is 2000, T269 is 2400, V440 westbound is 2000, V319 and T259 is 2400 westbound
+      2. Utilize airways to get them low enough to commence approach from the VOR or TAAs, V440 eastbound is 2000, T269 is 2400, V440 westbound is 2000, V319 and T259 is 2400 westbound
 3. VDZ arrivals: routed to JOH VOR along airways
 
 ## Appendices
@@ -68,3 +68,7 @@ No general notes
 ### Appendix. A Area Map
 
 {{< image link="./central_area.png" width="80%" caption="Central Area" >}}
+
+### Appendix. B A11 Gate Map
+
+{{< image link="./a11_arrivals.png" width="80%" caption="A11 Arrivals" >}}
