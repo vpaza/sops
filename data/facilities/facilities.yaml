@@ -51,6 +51,17 @@ atcts:
       abbreviation: BET LC
       name: Bethel Tower
       frequency: 118.7
+  BIG:
+    hours: "1715-0100Z++ MON_FRI; EXC HOLS."
+    positions:
+    - position: BIG_GND
+      abbreviation: BIG GC
+      name: Allen Ground
+      frequency: 118.225
+    - position: BIG_TWR
+      abbreviation: BIG LC
+      name: Allen Tower
+      frequency: 119.8
   EDF:
     hours: Continuous
     positions:

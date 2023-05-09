@@ -5,9 +5,11 @@ headless = true
 - [Home](/)
 - Air Traffic Control Towers
   - [Anchorage/Lake Hood](docs/terminal/panc)
+  - [Bethel](docs/terminal/pabe)
   - [Fairbanks](docs/terminal/pafa)
   - [Juneau](docs/terminal/pajn)
   - [Kodiak](docs/terminal/padq)
+  - [Military ATCT](docs/terminal/military)
 - Approach Controls
   - [Anchorage (A11)](docs/approaches/a11)
   - [Fairbanks](docs/approaches/fai)
