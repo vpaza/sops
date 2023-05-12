@@ -4,6 +4,11 @@ title: "Changes"
 
 # Changes
 
+## 2023-05-11
+
+- Added movement area diagram to [Fairbanks ATCT](docs/terminal/pafa) page
+- Clarified initial altitudes on [Anchorage ATCT](docs/terminal/panc) page
+
 ## 2023-05-08
 
 - Created [Bethel ATCT](docs/terminal/pabe) page

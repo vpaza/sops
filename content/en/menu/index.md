@@ -3,7 +3,9 @@ headless = true
 +++
 
 - [Home](/)
-- [Changes](/changes)
+- [Changes](docs/changes)
+- Lists
+  - [NAVAIDs](docs/lists/navaids)
 - Air Traffic Control Towers
   - [Anchorage/Lake Hood](docs/terminal/panc)
   - [Bethel](docs/terminal/pabe)
