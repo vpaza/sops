@@ -1,0 +1,20 @@
+{{ $data := index .Site.Data.navaids (.Get 0) }}
+
+<table>
+  <thead>
+    <tr>
+      <td>Ident</td>
+      <td>Name</td>
+      <td>Frequency</td>
+    </tr>
+  </thead>
+  <tbody>
+  {{ range $data }}
+    <tr>
+      <td>{{ .id }}</td>
+      <td>{{ .name }}</td>
+      <td>{{ .freq }}</td>
+    </tr>
+  {{ end }}
+  </tbody>
+</table>

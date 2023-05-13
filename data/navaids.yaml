@@ -1,0 +1,491 @@
+VORs:
+- id: AKN
+  name: KING SALMON VORTAC
+  freq: 112.80
+- id: ANN
+  name: ANNETTE ISLAND VOR/DME
+  freq: 117.10
+- id: AST
+  name: ASTORIA VOR/DME
+  freq: 114.00
+- id: BET
+  name: BETHEL VORTAC
+  freq: 114.10
+- id: BGQ
+  name: BIG LAKE VORTAC
+  freq: 112.50
+- id: BIG
+  name: BIG DELTA VORTAC
+  freq: 114.90
+- id: BKA
+  name: BIORKA ISLAND VORTAC
+  freq: 113.80
+- id: BRW
+  name: BARROW VOR/DME
+  freq: 116.20
+- id: BTT
+  name: BETTLES VOR/DME
+  freq: 116.00
+- id: CDB
+  name: COLD BAY VORTAC
+  freq: 112.60
+- id: CVV
+  name: PENN COVE VOR/DME
+  freq: 117.20
+- id: DLG
+  name: DILLINGHAM VOR/DME
+  freq: 116.40
+- id: ENA
+  name: KENAI VOR/DME
+  freq: 117.60
+- id: ENM
+  name: EMMONAK VOR/DME
+  freq: 117.80
+- id: ENN
+  name: NENANA VORTAC
+  freq: 115.80
+- id: FAI
+  name: FAIRBANKS VORTAC
+  freq: 108.60
+- id: FYU
+  name: FORT YUKON VORTAC
+  freq: 114.40
+- id: GAL
+  name: GALENA VOR/DME
+  freq: 114.80
+- id: GKN
+  name: GULKANA VOR/DME
+  freq: 115.60
+- id: HOM
+  name: HOMER VOR/DME
+  freq: 114.60
+- id: HPB
+  name: HOOPER BAY VOR/DME
+  freq: 115.20
+- id: HQM
+  name: HOQUIAM VORTAC
+  freq: 117.70
+- id: HSL
+  name: HUSLIA VOR/DME
+  freq: 117.40
+- id: HUH
+  name: WHATCOM VORTAC
+  freq: 113.00
+- id: JOH
+  name: JOHNSTONE POINT VOR/DME
+  freq: 116.70
+- id: LVD
+  name: LEVEL ISLAND VOR/DME
+  freq: 116.50
+- id: MCG
+  name: MC GRATH VORTAC
+  freq: 115.50
+- id: MDO
+  name: MIDDLETON ISLAND VOR/DME
+  freq: 115.30
+- id: MOS
+  name: MOSES POINT VOR/DME
+  freq: 116.30
+- id: ODK
+  name: KODIAK VOR/DME
+  freq: 117.10
+- id: OLM
+  name: OLYMPIA VORTAC
+  freq: 113.40
+- id: OME
+  name: NOME VOR/DME
+  freq: 115.00
+- id: ORT
+  name: NORTHWAY VORTAC
+  freq: 116.30
+- id: OTZ
+  name: KOTZEBUE VOR/DME
+  freq: 115.70
+- id: PAE
+  name: PAINE VOR/DME
+  freq: 110.60
+- id: SCC
+  name: DEADHORSE VOR/DME
+  freq: 113.90
+- id: SEA
+  name: SEATTLE VORTAC
+  freq: 116.80
+- id: SQA
+  name: SPARREVOHN VOR/DME
+  freq: 117.20
+- id: SSR
+  name: SISTERS ISLAND VORTAC
+  freq: 114.00
+- id: TAL
+  name: TANANA VOR/DME
+  freq: 116.60
+- id: TED
+  name: ANCHORAGE VOR/DME
+  freq: 113.15
+- id: TKA
+  name: TALKEETNA VOR/DME
+  freq: 116.20
+- id: TOU
+  name: TATOOSH VORTAC
+  freq: 112.20
+- id: ULL
+  name: KUKULIAK VOR/DME
+  freq: 117.30
+- id: UNK
+  name: UNALAKLEET VOR/DME
+  freq: 116.90
+- id: WLK
+  name: SELAWIK VOR/DME
+  freq: 114.20
+- id: YAK
+  name: YAKUTAT VOR/DME
+  freq: 113.30
+- id: YDC
+  name: PRINCETON VORTAC
+  freq: 113.90
+- id: YVR
+  name: VANCOUVER VOR/DME
+  freq: 115.90
+- id: YWL
+  name: WILLIAMS LAKE VORTAC
+  freq: 113.60
+- id: YXY
+  name: WHITEHORSE VOR/DME
+  freq: 116.60
+- id: YYJ
+  name: VICTORIA VOR/DME
+  freq: 113.70
+- id: YZP
+  name: SANDSPIT VOR/DME
+  freq: 114.10
+- id: YZT
+  name: PORT HARDY VOR/DME
+  freq: 112.00
+NDBs:
+- id: ACE
+  freq: 277
+  name: KACHEMAK NDB
+- id: ADK
+  freq: 530
+  name: MOUNT MOFFETT NDB/DME
+- id: AES
+  freq: 390
+  name: NABESNA NDB
+- id: AFE
+  freq: 223
+  name: KAKE NDB/DME
+- id: AIX
+  freq: 323
+  name: NANWAK NDB/DME
+- id: AKP
+  freq: 348
+  name: ANAKTUVUK PASS NDB
+- id: AKW
+  freq: 229
+  name: KLAWOCK NDB/DME
+- id: ALJ
+  freq: 233
+  name: ORCA BAY NDB
+- id: AMF
+  freq: 403
+  name: AMBLER NDB
+- id: ANI
+  freq: 359
+  name: ANIAK NDB
+- id: ANV
+  freq: 365
+  name: ANVIK NDB
+- id: ATK
+  freq: 350
+  name: ATQASUK NDB
+- id: AUB
+  freq: 355
+  name: CHINOOK NDB
+- id: AW
+  freq: 382
+  name: WATON NDB
+- id: BCC
+  freq: 212
+  name: BEAR CREEK NDB
+- id: BTS
+  freq: 429
+  name: WOOD RIVER NDB
+- id: BVK
+  freq: 325
+  name: BUCKLAND NDB/DME
+- id: BVS
+  freq: 240
+  name: SKAGIT/BAY VIEW NDB
+- id: CAN
+  freq: 274
+  name: CARNEY NDB
+- id: CGL
+  freq: 212
+  name: COGHLAN ISLAND NDB
+- id: CMJ
+  freq: 396
+  name: CLAM COVE NDB
+- id: CMQ
+  freq: 338
+  name: CAMPBELL LAKE NDB
+- id: CQR
+  freq: 263
+  name: CHANDALAR LAKE NDB
+- id: CRN
+  freq: 281
+  name: CAIRN MOUNTAIN NDB
+- id: CUN
+  freq: 257
+  name: CHENA NDB
+- id: CYT
+  freq: 209
+  name: YAKATAGA NDB
+- id: CZF
+  freq: 275
+  name: CAPE ROMANZOF NDB
+- id: DGG
+  freq: 429
+  name: RED DOG NDB/DME
+- id: DJN
+  freq: 347
+  name: DELTA JUNCTION NDB
+- id: DUT
+  freq: 283
+  name: DUTCH HARBOR NDB/DME
+- id: EAV
+  freq: 391
+  name: EVANSVILLE NDB
+- id: EEF
+  freq: 391
+  name: ELEPHANT NDB
+- id: EHM
+  freq: 385
+  name: CAPE NEWENHAM NDB/DME
+- id: ELF
+  freq: 341
+  name: ELFEE NDB
+- id: FDV
+  freq: 529
+  name: FORT DAVIS NDB
+- id: FHR
+  freq: 284
+  name: FRIDAY HARBOR NDB
+- id: FOX
+  freq: 356
+  name: FOX NDB
+- id: FPN
+  freq: 372
+  name: FREDERICKS POINT NDB
+- id: FTO
+  freq: 242
+  name: YUKON RIVER NDB
+- id: GAM
+  freq: 369
+  name: GAMBELL NDB/DME
+- id: GAV
+  freq: 219
+  name: GUSTAVUS NDB
+- id: GBH
+  freq: 417
+  name: GALBRAITH LAKE NDB
+- id: GCR
+  freq: 404
+  name: GLACIER RIVER NDB
+- id: GLA
+  freq: 248
+  name: GLENNALLEN NDB
+- id: GRF
+  freq: 216
+  name: GRAYE NDB
+- id: HBT
+  freq: 390
+  name: BORLAND NDB/DME
+- id: HCP
+  freq: 334
+  name: KULIK LAKE NDB
+- id: HHM
+  freq: 356
+  name: HOTHAM NDB
+- id: HNS
+  freq: 245
+  name: HAINES NDB
+- id: HPK
+  freq: 281
+  name: PARKK NDB
+- id: ICK
+  freq: 266
+  name: NICHOLS NDB
+- id: ICW
+  freq: 525
+  name: ICE POOL NDB
+- id: ILI
+  freq: 411
+  name: ILIAMNA NDB/DME
+- id: IME
+  freq: 414
+  name: MOUNT EDGECUMBE NDB
+- id: IWW
+  freq: 379
+  name: WILDWOOD NDB
+- id: JNR
+  freq: 382
+  name: NORTH RIVER NDB
+- id: KKA
+  freq: 299
+  name: KOYUK NDB/DME
+- id: LAC
+  freq: 328
+  name: LACOMAS NDB
+- id: LUR
+  freq: 385
+  name: CAPE LISBURNE NDB/DME
+- id: MHM
+  freq: 227
+  name: MINCHUMINA NDB
+- id: MNC
+  freq: 348
+  name: MASON COUNTY NDB
+- id: MNL
+  freq: 524
+  name: MINERAL CREEK NDB
+- id: NOW
+  freq: 338
+  name: EDIZ HOOK NDB
+- id: OAY
+  freq: 263
+  name: NORTON BAY NDB
+- id: OCC
+  freq: 385
+  name: OCEAN CAPE NDB
+- id: OLT
+  freq: 346
+  name: SOLDOTNA NDB/DME
+- id: OMK
+  freq: 219
+  name: OMAK NDB
+- id: OPZ
+  freq: 356
+  name: LOPEZ ISLAND NDB
+- id: OQK
+  freq: 414
+  name: NOATAK NDB/DME
+- id: OSE
+  freq: 251
+  name: OSCARVILLE NDB
+- id: OYN
+  freq: 208
+  name: GOLD NDB/DME
+- id: PDN
+  freq: 371
+  name: PORT HEIDEN NDB/DME
+- id: PEE
+  freq: 305
+  name: PETERS CREEK NDB
+- id: PEN
+  freq: 201
+  name: KARPEN NDB
+- id: PHO
+  freq: 221
+  name: POINT HOPE NDB
+- id: PIZ
+  freq: 362
+  name: POINT LAY NDB
+- id: PJ
+  freq: 329
+  name: ROBINSON NDB
+- id: PPC
+  freq: 340
+  name: PROSPECT NDB
+- id: PR
+  freq: 218
+  name: PRINCE RUPERT NDB
+- id: PVQ
+  freq: 376
+  name: PUT RIVER NDB
+- id: PWT
+  freq: 206
+  name: KITSAP NDB
+- id: PYC
+  freq: 290
+  name: PITSAND NDB
+- id: QQ
+  freq: 400
+  name: COMOX NDB
+- id: RNT
+  freq: 353
+  name: RENTON NDB
+- id: RWO
+  freq: 394
+  name: WOODY ISLAND NDB
+- id: SHH
+  freq: 365
+  name: SHISHMAREF NDB
+- id: SIT
+  freq: 358
+  name: SITKA NDB
+- id: SMA
+  freq: 230
+  name: ST MARYS NDB
+- id: SPY
+  freq: 314
+  name: ST PAUL ISLAND NDB/DME
+- id: SQM
+  freq: 529
+  name: SUMNER STRAIT NDB
+- id: SRI
+  freq: 399
+  name: PRIBILOF NDB/DME
+- id: SYA
+  freq: 403
+  name: SHEMYA NDB
+- id: TNC
+  freq: 347
+  name: TIN CITY NDB/DME
+- id: TOG
+  freq: 393
+  name: TOGIAK NDB/DME
+- id: UKK
+  freq: 338
+  name: WAINWRIGHT VILLAGE NDB
+- id: UMM
+  freq: 326
+  name: SUMMIT NDB
+- id: UQS
+  freq: 241
+  name: NUIQSUT VILLAGE NDB
+- id: UTO
+  freq: 272
+  name: UTOPIA CREEK NDB/DME
+- id: VIR
+  freq: 281
+  name: BROWERVILLE NDB
+- id: VTR
+  freq: 350
+  name: TAKOTNA RIVER NDB
+- id: WC
+  freq: 332
+  name: WHITE ROCK NDB
+- id: XX
+  freq: 344
+  name: ABBOTSFORD NDB
+- id: YAZ
+  freq: 359
+  name: TOFINO NDB
+- id: YCD
+  freq: 251
+  name: NANAIMO NDB
+- id: YJ
+  freq: 200
+  name: VICTORIA NDB
+- id: YOC
+  freq: 284
+  name: OLD CROW NDB
+- id: YXQ
+  freq: 239
+  name: BEAVER CREEK NDB
+- id: ZP
+  freq: 368
+  name: SANDSPIT NDB
+- id: ZT
+  freq: 242
+  name: PORT HARDY NDB
