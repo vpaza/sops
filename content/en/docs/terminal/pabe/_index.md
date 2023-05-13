@@ -4,6 +4,10 @@ title: "Bethel ATCT"
 
 # Bethel ATCT
 
+## General Info
+
+{{< attendance "BET" >}}
+
 {{< metar "PABE" >}}
 
 {{< taf "PABE" >}}
