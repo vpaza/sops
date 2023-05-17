@@ -105,11 +105,11 @@ atcts:
     - position: FAI_DEL
       abbreviation: FAI CD
       name: Fairbanks Delivery
-      frequency: 121.9
+      frequency: 127.6
     - position: FAI_GND
       abbreviation: FAI GC
       name: Fairbanks Ground
-      frequency: 121.7
+      frequency: 121.9
     - position: FAI_TWR
       abbreviation: FAI LC
       name: Fairbanks Tower
