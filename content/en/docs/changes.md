@@ -4,6 +4,12 @@ title: "Changes"
 
 # Changes
 
+## 2023-05-17
+
+- Added note to South Area that A11 arrivals on STARS with crossing restrictions should descend via the arrival,
+  gate restrictions are for other arrivals
+- Added [scratchpads](docs/lists/scratchpads) list for terminal arrival coordination
+
 ## 2023-05-11
 
 - Added movement area diagram to [Fairbanks ATCT](docs/terminal/pafa) page

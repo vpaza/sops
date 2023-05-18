@@ -24,7 +24,8 @@ title: "Anchorage ARTCC: Central Area"
 
 ### General
 
-No general notes
+1. ANC area arrivals on arrivals with crossing restrictions should be instructed to descend via the arrival, all others have their restrictions listed
+   by the appropriate sector
 
 ### Sector 5
 

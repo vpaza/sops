@@ -6,6 +6,7 @@ headless = true
 - [Changes](docs/changes)
 - Lists
   - [NAVAIDs](docs/lists/navaids)
+  - [Scratchpads](docs/lists/scratchpads)
 - Air Traffic Control Towers
   - [Anchorage/Lake Hood](docs/terminal/panc)
   - [Bethel](docs/terminal/pabe)
