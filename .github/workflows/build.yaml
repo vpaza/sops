@@ -40,11 +40,11 @@ jobs:
         HUGO_ENVIRONMENT: production # Backward compatiability
       run: |
         hugo --gc --minify
-    - name: Prepare SSH
-      run: |
-        install -m 600 -D /dev/null ~/.ssh/id_ed25519
-        echo "${{ secrets.PAZA_PIPELINE_SSH_KEY }}" > ~/.ssh/id_ed25519
-        ssh-keyscan -p 53667 lv-shared01.dapanel.net
-    - name: Deploy
-      run: |
-        rsync --archive --delete --stats -e 'ssh -p 53667' public/ domains/sops.vzanartcc.net/public_html/
+    - name: Deploy to Spaces
+      uses: BetaHuhn/do-spaces-action@v2
+      with:
+        access_key: ${{ secrets.DO_ACCESS_KEY_ID }}
+        secret_key: ${{ secrets.DO_SECRET_ACCESS_KEY }}
+        space_name: "sops.vzanartcc.net"
+        space_region: "sfo3"
+        source: "public"
