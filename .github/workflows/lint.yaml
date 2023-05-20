@@ -1,0 +1,25 @@
+name: Lint and Spell Check
+
+on:
+  push:
+    branches: [ master ]
+  pull_request:
+    branches: [ '*' ]
+
+jobs:
+  lint:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v3
+    - uses: actions/setup-node@v1
+      with:
+        node-version: '18.x'
+    - uses: actions/setup-ruby@v1
+      with:
+        ruby-version: '3.2'
+    - name: Install mdl
+      run: |
+        gem install mdl
+    - name: Run Lint
+      run: |
+        make lint
