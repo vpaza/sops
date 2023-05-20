@@ -49,5 +49,5 @@ jobs:
         ssh-keyscan -H ${{ secrets.PAZA_STATIC_SITE_SERVER }} >> ~/.ssh/known_hosts
     - name: Deploy
       run: |
-        rsync --archive --delete --stats public/ daniel@${{ secrets.PAZA_STATIC_SITE_SERVER }}:zan-sops/
+        rsync --archive --delete --stats public/ ${{ secrets.PAZA_PIPELINE_USERNAME }}@${{ secrets.PAZA_STATIC_SITE_SERVER }}:zan-sops/
         
