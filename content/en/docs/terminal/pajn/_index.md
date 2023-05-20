@@ -28,7 +28,7 @@ title: "Juneau"
          assign the lower altitude and advise to expect their requested altitude 10 minutes after departure
    2. VFR Aircraft requesting flight following shall be assigned a beacon code
 2. Departures from the waterway shall be advised to contact LC after receiving a clearance where necessary
-  
+
 ## Local Control
 
 1. All IFR departures require a release from ZAN prior to departure unless coordinated otherwise
@@ -38,7 +38,7 @@ title: "Juneau"
 ### Runway selection guidance
 
 Primary runways are based on forecasted wind, neighboring traffic flows and other weather conditions. Information from the [Juneau Airport Wind System (JAWS)](https://www.weather.gov/ajk/JAWS) shall be used to determine wind
-conditions and must be reliabled upon over surface wind reported by the ASOS. The following guidance shall be used to determine runway selection:
+conditions and must be relied upon over surface wind reported by the ASOS. The following guidance shall be used to determine runway selection:
 
 1. To the maximum extent possible, utilize runway 8
 2. When necessary, runway 26 may be used but extreme care must be taken to deconflict arriving and departing traffic

@@ -30,7 +30,7 @@ title: "Anchorage ARTCC: West Area"
 
 1. All handoffs to sector 10 shall be done using automated handoffs and be instructed to squawk 2000 prior to communications transfer
 2. ANC arrivals should be on an arrival and descended along that to the extent possible prior to handoff with Central Area
-3. Handoffs to UHMM or ZAK shall be done via direct message or voice at least 10 minutes prior to boundary crossing with communications transfer over a fix, navaid, or filed
+3. Handoffs to UHMM or ZAK shall be done via direct message or voice at least 10 minutes prior to boundary crossing with communications transfer over a fix, NAVAID, or filed
    waypoint at or prior to the boundary unless otherwise coordinated or directed by LOA
 
 ### Sector 3

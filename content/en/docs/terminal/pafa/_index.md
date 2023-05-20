@@ -24,7 +24,7 @@ and sequencing of all VFR aircraft participating in TRSA services. Basic radar
 services have been established to provide sequencing and advisories on a
 full-time basis to aircraft desiring basic radar services and declining TRSA
 services. Wake turbulence application for TRSA and Basic Radar service aircraft
-is the responsibility of the Radar Controller as per FAAO 7110.65 7-6-7 c.1, 2 and
+is the responsibility of the Radar Controller as per FAAO 7110.65 7-6-7 c(1), 2 and
 7-7-3 and must continue to the ground.
 
 ## Clearance Delivery
@@ -50,7 +50,7 @@ is the responsibility of the Radar Controller as per FAAO 7110.65 7-6-7 c.1, 2 a
 ## Ground Control
 
 1. Ensure all aircraft have spoken to Clearance Delivery unless they are VFR and not requesting TRSA or flight following.
-  
+
 ## Local Control
 
 1. VFR aircraft that will transition FBK airspace shall be coordinated prior to departure
@@ -77,7 +77,7 @@ but not need approval from, the appropriate departure controller. LC should take
    1. **NOTE** Runway 2L departures require a climb rate of 210 feet per nautical mile to 1,600 feet
 2. Runway 20L/20R: 198 counter-clockwise to 023
 
-## Appendicies
+## Appendices
 
 ### Appendix A. Movement Area
 

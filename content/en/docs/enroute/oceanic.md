@@ -25,14 +25,14 @@ title: "Anchorage ARTCC: Oceanic"
 The Pacific area does have radar coverage for a portion closest to the Domestic side. This may be used to provide radar services, especially for departures and arrivals, and establishing
 radar identification.
 
-This radar coverage is viewable by enabling the "Sys>SRM" map in vatSys.
+This radar coverage is viewable by enabling the `Sys > SRM` map in vatSys.
 
 {{< image link="./10_radar.png" width="80%" caption="Pacific Area Radar Coverage" >}}
 
 When an aircraft is radar identified, controllers should/may use the identification of "Anchorage Center" when communicating with the aircraft and may revert to the normal communication
 procedures.
 
-### Arcitc Area
+### Arctic Area
 
 {{< enroute-positions area="Arctic" >}}
 
