@@ -3,7 +3,7 @@ name: Build and Deploy
 on:
   push:
     branches:
-      - master
+      - main
   workflow_dispatch:
 
 env:
@@ -11,7 +11,7 @@ env:
   HUGO_VERSION: 0.111.3
 
 jobs:
-  lint:
+  build:
     runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@v3
