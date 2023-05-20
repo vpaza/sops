@@ -17,7 +17,7 @@ jobs:
     - uses: actions/setup-node@v1
       with:
         node-version: '18.x'
-    - uses: actions/setup-ruby@v1
+    - uses: ruby/setup-ruby@v1
       with:
         ruby-version: '3.2'
     - name: Install mdl
