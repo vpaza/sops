@@ -45,7 +45,7 @@ jobs:
       run: |
         install -m 600 -D /dev/null ~/.ssh/id_ed25519
         echo "${{ secrets.PAZA_PIPELINE_SSH_KEY }}" > ~/.ssh/id_ed25519
-        ssh-keyscan -R ${{ secrets.PAZA_STATIC_SITE_SERVER }}
+        ssh-keyscan -H ${{ secrets.PAZA_STATIC_SITE_SERVER }} >> ~/.ssh/known_hosts
     - name: Deploy
       run: |
         rsync --archive --delete --stats public/ daniel@${{ secrets.PAZA_STATIC_SITE_SERVER }}:zan4-sops/
