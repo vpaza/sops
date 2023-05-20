@@ -24,7 +24,7 @@ title: "Kodiak"
       1. Unless otherwise directed by ZAN, departures shall be assigned their requested altitude as their initial altitude. If ZAN asks for a lower initial, the controller shall
          assign the lower altitude and advise to expect their requested altitude 10 minutes after departure
    2. VFR Aircraft requesting flight following shall be assigned a beacon code
-  
+
 ## Local Control
 
 1. All IFR departures require a release from ZAN prior to departure unless coordinated otherwise

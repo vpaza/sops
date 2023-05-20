@@ -7,7 +7,7 @@ title: "Anchorage TRACON (A11)"
 ## General Information
 
 {{< metar "PANC" "ANC METAR" >}}
-  
+
 {{< taf "PANC" "ANC TAF" >}}
 
 {{< metar "PAED" "EDF METAR" >}}
@@ -26,7 +26,7 @@ The primary position is `A11 NR` and that position shall be opened before any ot
 2. All sectors must QuickLook all other A11 sectors
 3. Sector boundaries are dependent upon and change with ANC's primary arrival runways
 4. Where FR combines when not opened, but `NR` and `SR` shall be coordinated between the two controllers
-  
+
 ## North Radar
 
 1. Runway 7L/7R (to FR):
@@ -48,7 +48,7 @@ The primary position is `A11 NR` and that position shall be opened before any ot
    1. Vectored for left traffic
 4. Runway 33 (to FR):
    1. Assigned 5000 and vectored downwind
-  
+
 ## Final Radar
 
 1. Handoff to tower upon issuance of approach clearance, or for VFR aircraft, no later than 10 miles from the airport

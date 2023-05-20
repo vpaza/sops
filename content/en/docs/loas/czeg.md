@@ -34,10 +34,10 @@ Effective: January 26, 2023
 
 | Arrival Airport | Route Via | Altitude (cross common boundary unless otherwise noted) |
 | --------------- | --------- | ------------------------------------------------------ |
-| PAJN | J536.SSR | Descending FL230 |
+| PAJN | `J536.SSR` | Descending FL230 |
 | PAHN/PAGY | ANY | AOA 15000 |
-| PAOR | J515.ORT<br>Q902.ORT<br>NCA15.ORT<br>NCA17.ORT<br>V444.ORT | J515/Q902: AOA 6000<br>NCA15/NCA17: AOA 8000<br>V444: AOA 6000 |
-| PFYU | J507.ORT.J507.FYU<br>J167.FYU<br>J160.FYU<br>NCA28.FYU | J507: N/A<br>J167: AOB FL320<br>J160: N/A<br>NCA28: AOB FL300 |
+| PAOR | `J515.ORT`<br>`Q902.ORT`<br>`NCA15.ORT`<br>`NCA17.ORT`<br>`V444.ORT` | J515/Q902: AOA 6000<br>NCA15/NCA17: AOA 8000<br>V444: AOA 6000 |
+| PFYU | `J507.ORT.J507.FYU`<br>`J167.FYU`<br>`J160.FYU`<br>`NCA28.FYU` | J507: N/A<br>J167: AOB FL320<br>J160: N/A<br>NCA28: AOB FL300 |
 
 All other aircraft arriving at an airport within PAZA should, to the extent possible, have a STAR assigned. No other restrictions exist.
 
@@ -45,8 +45,8 @@ All other aircraft arriving at an airport within PAZA should, to the extent poss
 
 | Arrival Airport | Route Via | Altitude (cross common boundary unless otherwise noted) |
 | --------------- | --------- | ------------------------------------------------------ |
-| CYXY | *MEMLI.GOROV1 | Descending FL230 |
-| CYXY | *GOROV.GOROV1 | N/A |
+| CYXY | *`MEMLI.GOROV1` | Descending FL230 |
+| CYXY | *`GOROV.GOROV1` | N/A |
 
 * CZEG grants PAZA authority to send flights DCT MEMLI or GOROV without prior coordination with Edmonton CTR if online.
 
@@ -54,7 +54,7 @@ All other aircraft arriving to CYXY should be on a high or low airway to YXY (Wh
 
 ## Attachment B - Common boundary
 
-Pursuant to existing governmetn records, the boundary shall be defined as:
+Pursuant to existing government records, the boundary shall be defined as:
 
 ```text
 N090.00.00.000 W141.00.00.000
@@ -121,17 +121,17 @@ The following figure is the visual representation of the eastern boundary of the
       1. All handoffs go to Sector 8 (ANC_08_CTR)
       2. When ANC_08_CTR is not staffed, the area will combine to Sector 6 (ANC_06_CTR)
    4. Arctic (uncolored):
-      1. All aircraft entering PAZA airspace north of N072.00.00.000 W141.00.00.000 are not controlled by a domestic sector. The controller for this airspace is **ONLY** ZAN_64_FSS on VHF 134.4 or HF 17.925.
+      1. All aircraft entering PAZA airspace north of `N072.00.00.000 W141.00.00.000` are not controlled by a domestic sector. The controller for this airspace is **ONLY** ZAN_64_FSS on VHF 134.4 or HF 17.925.
    5. When the above is not followed, PAZA controllers shall coordinate the area designations to all neighboring controllers. Outside of events, individual sectors are not staffed... only areas. Areas are defined in the table below.
 2. Sector designations (green numbers in above) for purposes of illustrating splits on video maps:
    1. Point 1 and 2 (Boundary between 4 and 15):
-      1. N067.20.00.000 W141.00.00.000 N066.07.00.000 W154.00.00.000
+      1. `N067.20.00.000 W141.00.00.000 N066.07.00.000 W154.00.00.000`
    2. Point 3 and 4 (Boundary between 15 and 16):
-      1. N066.40.00.000 W141.00.00.000 N066.40.00.000 W144.30.00.000
+      1. `N066.40.00.000 W141.00.00.000 N066.40.00.000 W144.30.00.000`
    3. Point 5 and 6 (Boundary between North Area and Central Area [and sectors 16 and 7]):
-      1. N063.20.00.000 W141.00.00.000 N062.50.00.000 W146.35.00.000
+      1. `N063.20.00.000 W141.00.00.000 N062.50.00.000 W146.35.00.000`
    4. Point 7 and 8 (Boundary between Central Area and South Area [and sectors 7 and 8]):
-      1. N060.21.00.000 W139.11.00.000 N060.32.00.000 W141.20.00.000
+      1. `N060.21.00.000 W139.11.00.000 N060.32.00.000 W141.20.00.000`
 
 | Area Name | Primary Sector Callsign | Radio Callsign | Frequency (VHF) |
 | --------- | ----------------------- | -------------- | --------------- |
@@ -150,7 +150,7 @@ The following diagram is a visual representation of the western shared border of
 
 1. Area handoffs go to CZEG_N_CTR (Edmonton Centre), CZEG_CTR (if CZEG_N_CTR is not staffed) or *CZEG_FSS (Edmonton Centre) if CZEG_N_CTR and CZEG_CTR are not staffed.
 
-| Area | Primary Sector calslign | Radio Callsign | Frequency |
+| Area | Primary Sector Callsign | Radio Callsign | Frequency |
 | ---- | ----------------------- | -------------- | --------- |
 | Common Border | CZEG_N_CTR | Edmonton Centre | 134.675 |
 | Common Border | CZEG_CTR | Edmonton Centre | 135.750 |
