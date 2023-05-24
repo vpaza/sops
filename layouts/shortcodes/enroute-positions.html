@@ -2,9 +2,9 @@
 {{- $areas := slice -}}
 {{- $data := slice -}}
 {{- if (eq $area "all") -}}
-  {{- $areas = index .Site.Data.facilities.facilities.enroute -}}
+  {{- $areas = index .Site.Data.facilities.enroute -}}
 {{- else -}}
-  {{- $data = index .Site.Data.facilities.facilities.enroute $area -}}
+  {{- $data = index .Site.Data.facilities.enroute $area -}}
 {{- end -}}
 
 <table>
