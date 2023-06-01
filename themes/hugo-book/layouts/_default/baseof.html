@@ -65,9 +65,9 @@
   {{ partial "docs/inject/body" . }}
   <script type="text/javascript">
   function updateClock() {
-    document.getElementById("utc-clock").innerHTML = new Date().toUTCString().slice(-12, -3) + "Z";
-    var akTime = new Date().toLocaleString("en-US", {timeZone: "America/Anchorage"});
-    document.getElementById("local-clock").innerHTML = akTime.slice(-12, -3) + " L";
+    let d = new Date();
+    document.getElementById("utc-clock").innerHTML = d.toLocaleString('en-UK', { timeZone: 'UTC', hour12: false }).slice(-8) + " Z";
+    document.getElementById("local-clock").innerHTML = d.toLocaleString('en-UK', { timeZone: 'America/Anchorage', hour12: false }).slice(-8) + " L";
   }
   updateClock();
   setInterval(updateClock, 1000);
