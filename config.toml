@@ -1,4 +1,4 @@
-baseURL = 'https://sops.vzanartcc.net/'
+baseURL = 'https://sops.zanartcc.org/'
 languageCode = 'en-us'
 title = 'Anchorage ARTCC'
 theme = 'hugo-book'
@@ -24,7 +24,7 @@ defaultContentLanguage = "en"
 # [[menu.before]]
 [[menu.after]]
   name = "Anchorage Website"
-  url = "https://www.vzanartcc.net"
+  url = "https://www.zanartcc.org"
   weight = 10
 
 [params]

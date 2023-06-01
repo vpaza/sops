@@ -4,6 +4,15 @@ title: "Changes"
 
 # Changes
 
+## 2023-06-01
+
+- Clarified routing in the [Kodiak ATCT](docs/terminal/padq) page regarding Kodiak 7 departures
+- Added [Kenai ATCT](docs/terminal/paen) page
+- Added [King Salmon ATCT](docs/terminal/pakn) page
+- Added [Merrill Field ATCT](docs/terminal/pamr) page
+- Added MRI procedures to the [A11 TRACON](docs/approaches/a11) page
+- Added a UTC and AK Time clock to right sidebar
+
 ## 2023-05-17
 
 - Added note to South Area that A11 arrivals on STARS with crossing restrictions should descend via the arrival,

@@ -12,7 +12,10 @@ headless = true
   - [Bethel](docs/terminal/pabe)
   - [Fairbanks](docs/terminal/pafa)
   - [Juneau](docs/terminal/pajn)
+  - [Kenai](docs/terminal/paen)
+  - [King Salmon](docs/terminal/pakn)
   - [Kodiak](docs/terminal/padq)
+  - [Merrill Field ATCT](docs/terminal/pamr)
   - [Military ATCT](docs/terminal/military)
 - Approach Controls
   - [Anchorage (A11)](docs/approaches/a11)

@@ -1,21 +1,21 @@
 ---
 weight: 1
-title: "Kodiak"
+title: "King Salmon"
 ---
 
-# Kodiak ATCT
+# King Salmon ATCT
 
 ## General Info
 
-{{< attendance "ADQ" >}}
+{{< attendance "AKN" >}}
 
-{{< metar "PADQ" >}}
+{{< metar "PAKN" >}}
 
-{{< taf "PADQ" >}}
+{{< taf "PAKN" >}}
 
 ## Positions
 
-{{< positions "ADQ" >}}
+{{< positions "AKN" >}}
 
 ## Ground Control
 
@@ -23,7 +23,7 @@ title: "Kodiak"
    1. IFR Aircraft
       1. Unless otherwise directed by ZAN, departures shall be assigned their requested altitude as their initial altitude. If ZAN asks for a lower initial, the controller shall
          assign the lower altitude and advise to expect their requested altitude 10 minutes after departure
-      2. Aircraft whose first fix is either the Kodiak VOR or Woody Island NDB shall be issued the Kodiak 7 departure. Any aircraft whose first fix is part of an airway that connects to the Kodiak VOR or Woody Island NDB shall be assigned the Kodiak 7 departure as well to join the airway from the VOR or NDB.
+      2. Aircraft should be cleared `as filed`
    2. VFR Aircraft requesting flight following shall be assigned a beacon code
 
 ## Local Control
@@ -36,5 +36,14 @@ title: "Kodiak"
 
 Primary runways are based on forecasted wind and other weather conditions.
 
-1. First preference for departures is runway 8 and/or 1
-2. First preference for arrivals is runway 26 and/or 1
+1. Arrivals
+   1. IMC conditions:
+      1. ILS/RNAV Runway 12
+      2. RNAV Runway 30
+   2. VMC conditions:
+      1. Visual Runway 18 for GA aircraft, 12 for all others
+      2. Visual Runway 36 for GA aircraft, 30 for all others
+2. Departures
+   1. GA aircraft should use 36/18
+   2. Other aircraft should use 12/30
+   3. If requested for an intersection on a more favorable wind direction, the controller should accomodate to the extent possible

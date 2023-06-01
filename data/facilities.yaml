@@ -137,7 +137,7 @@ atcts:
       name: Juneau Tower
       frequency: 118.3
   MRI:
-    hours: "0700-2200"
+    hours: 0700-2200
     positions:
     - position: MRI_GND
       abbreviation: MRI GC

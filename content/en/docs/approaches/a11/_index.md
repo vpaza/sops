@@ -37,6 +37,10 @@ The primary position is `A11 NR` and that position shall be opened before any ot
    2. Left traffic assigned 6000 on left base or downwind, or on an RNAV arrival
 3. Runway 25L/25R (to SR):
    1. Routed over or west of Fire Island and assigned 5000
+4. MRI traffic:
+   1. IFR aircraft conducting a visual approach or VFR from the west/northwest should be vectored parallel the Runway 15 final approach course toward the Mouth of Ship Creek before being switched to MRI
+   2. IFR aircraft conducting the RNAV must first be pointed out with ANC LC prior to receiving approach clearance. Extreme caution should be used due to this approach course crossing Runway 15's approach course, Runway 33's Departure cooridor, and it's proximity to the EDF final approach course
+   3. VFR aircraft from the east side of the Class D's should be instructed to remain east of Glenn Highway and once they have MRI in-sight, switched to MRI LC
 
 ## South Radar
 
@@ -48,6 +52,9 @@ The primary position is `A11 NR` and that position shall be opened before any ot
    1. Vectored for left traffic
 4. Runway 33 (to FR):
    1. Assigned 5000 and vectored downwind
+5. MRI traffic:
+   1. IFR aircraft conducting a visual approach and VFR aircraft should be instructed to remain east of Campbell Airstrip, and once they have MRI in-sight, switched to MRI LC
+   2. IFR aircraft unable to conduct a visual approach should be vectored over Fire Island at 2000 and switched to NR.
 
 ## Final Radar
 
@@ -87,3 +94,7 @@ The primary position is `A11 NR` and that position shall be opened before any ot
 ### A11 Gate Map
 
 {{< image link="./a11_arrivals.png" width="80%" caption="A11 Arrivals" >}}
+
+### VFR Points Map
+
+{{< image link="./../../terminal/panc/vfr.png" width="80%" caption="VFR Points" >}}
