@@ -46,4 +46,4 @@ Primary runways are based on forecasted wind and other weather conditions.
 2. Departures
    1. GA aircraft should use 36/18
    2. Other aircraft should use 12/30
-   3. If requested for an intersection on a more favorable wind direction, the controller should accomodate to the extent possible
+   3. If requested for an intersection on a more favorable wind direction, the controller should accommodate to the extent possible

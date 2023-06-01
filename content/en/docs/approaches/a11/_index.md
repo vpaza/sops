@@ -39,7 +39,7 @@ The primary position is `A11 NR` and that position shall be opened before any ot
    1. Routed over or west of Fire Island and assigned 5000
 4. MRI traffic:
    1. IFR aircraft conducting a visual approach or VFR from the west/northwest should be vectored parallel the Runway 15 final approach course toward the Mouth of Ship Creek before being switched to MRI
-   2. IFR aircraft conducting the RNAV must first be pointed out with ANC LC prior to receiving approach clearance. Extreme caution should be used due to this approach course crossing Runway 15's approach course, Runway 33's Departure cooridor, and it's proximity to the EDF final approach course
+   2. IFR aircraft conducting the RNAV must first be pointed out with ANC LC prior to receiving approach clearance. Extreme caution should be used due to this approach course crossing Runway 15's approach course, Runway 33's Departure corridor, and it's proximity to the EDF final approach course
    3. VFR aircraft from the east side of the Class D's should be instructed to remain east of Glenn Highway and once they have MRI in-sight, switched to MRI LC
 
 ## South Radar
