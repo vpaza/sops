@@ -4,6 +4,10 @@ title: "Changes"
 
 # Changes
 
+## 2023-06-02
+
+- Added A11 Departure/Arrival Gate information to the [A11 TRACON](docs/approaches/a11) page and [Central Area](docs/enroute/central) page
+
 ## 2023-06-01
 
 - Clarified routing in the [Kodiak ATCT](docs/terminal/padq) page regarding Kodiak 7 departures

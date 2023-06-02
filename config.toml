@@ -1,19 +1,32 @@
+metaDataFormat = "yaml"
+uglyURLs = false
+enableRobotsTXT = true
+pluralizeListTitles = false
+canonifyURLs = true
+disableKinds = ["taxonomy", "taxonomyTerm"]
+anchor = "smart"
+enableGitInfo = true
+enableEmoji = false
+buildFuture = true
+staticDir = ["static", "generated"]
 baseURL = 'https://sops.zanartcc.org/'
 languageCode = 'en-us'
 title = 'Anchorage ARTCC'
 theme = 'hugo-book'
 defaultContentLanguage = "en"
-[markup]
-[markup.goldmark.renderer]
-  unsafe = true
 
-[markup.tableOfContents]
-  startLevel = 2
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
+  [markup.tableOfContents]
+    startLevel = 2
 
 [languages]
-[languages.en]
-  languageName = 'English'
-  contentDir = 'content/en'
+  [languages.en]
+    languageName = 'English'
+    contentDir = 'content/en'
 
 # Multi-lingual mode config
 # There are different options to translate files

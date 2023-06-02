@@ -1,14 +1,8 @@
 #!/bin/bash
 
-set -eux
+set -ex
 
-HUB=${HUB:-adhp}
-TAG=${TAG:-latest}
-IMG=${IMG:-zan-sops}
+HUGO_ENV=${HUGO_ENV:-production}
+HUGO_ENVIRONMENT=${HUGO_ENVIRONMENT:-production}
 
-BUILD_ARGS=${BUILD_ARGS:-}
-if [[ -z "$DRY_RUN" ]]; then
-  BUILD_ARGS="$BUILD_ARGS --push"
-fi
-
-docker buildx build -t "$HUB"/"$IMG":"$TAG" ${BUILD_ARGS} .
+hugo --gc --minify

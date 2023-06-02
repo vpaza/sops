@@ -1,12 +1,17 @@
-lint:
-	@scripts/lint.sh
-build:
-	@DRY_RUN=1 scripts/build.sh
-build_push:
-	@scripts/build.sh
-gen:
-	@scripts/gen.sh
-publish:
-	@scripts/frantech-deploy.sh
+RUN=./scripts/run.sh
+MAKE_CONTAINER=$(RUN) make --no-print-directory -e -f Makefile.core.mk
 
-.PHONY: lint
+%:
+	@$(MAKE_CONTAINER) $@
+
+default:
+	@$(MAKE_CONTAINER)
+
+shell:
+	@$(RUN) /bin/bash
+
+local-run:
+	@$(MAKE_CONTAINER) build
+	
+
+.PHONY: default shell

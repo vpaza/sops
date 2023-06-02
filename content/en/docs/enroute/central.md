@@ -24,18 +24,16 @@ title: "Anchorage ARTCC: Central Area"
 
 ### General
 
-1. ANC area arrivals on arrivals with crossing restrictions should be instructed to descend via the arrival, all others have their restrictions listed
-   by the appropriate sector
+1. ANC area arrivals on arrivals with crossing restrictions should be instructed to descend via the arrival, all other restrictions are noted in the A11 Gates section
 
 ### Sector 5
 
-1. ANC area arrivals enter GASTO gate descending to no less than 7000 and should be below 15000. Prop arrivals may enter the KENAI gate
+1. No special procedures
 
 ### Sector 6
 
-1. ANC area arrivals enter TAGER gate descending to no less than 7000 and should be below 15000
-2. FAI arrivals should be at or below FL320 appropriate for the direction of flight prior to handoff with sector 15
-3. ENA arrivals should be at or below FL250 appropriate for the direction of flight prior to handoff with sector 5
+1. FAI arrivals should be at or below FL320 appropriate for the direction of flight prior to handoff with sector 15
+2. ENA arrivals should be at or below FL250 appropriate for the direction of flight prior to handoff with sector 5
 
 ### Sector 7
 
@@ -66,10 +64,31 @@ title: "Anchorage ARTCC: Central Area"
 
 ## Appendices
 
-### Appendix. A Area Map
+### Appendix. A A11 Gates
+
+{{< boilerplate a11-gates >}}
+
+### Appendix. B A11 Sectors By Gate
+
+Normally A11 operates on 118.6, during periods where SR is open, utilize the below for handoffs entering the A11 TRACON:
+
+| Gate Name | Sector |
+| --------- | ------ |
+| BIG LAKE | NR 118.6 |
+| MATTA | NR 118.6 |
+| ELLAM | NR 118.6 |
+| YESKA | SR 126.4 |
+| SEWAR | SR 126.4 |
+| NAPTO | SR 126.4 |
+| KENAI | SR 126.4 |
+| GASTO | SR 126.4 |
+| IVANN | NR 118.6 |
+| TAGER | NR 118.6 |
+
+### Appendix. C Area Map
 
 {{< image link="./central_area.png" width="80%" caption="Central Area" >}}
 
-### Appendix. B A11 Gate Map
+### Appendix. D A11 Gate Map
 
 {{< image link="./a11_arrivals.png" width="80%" caption="A11 Arrivals" >}}

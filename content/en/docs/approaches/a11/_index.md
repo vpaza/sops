@@ -67,6 +67,10 @@ The primary position is `A11 NR` and that position shall be opened before any ot
 
 ## Appendices
 
+### A11 Departure/Arrival Gates
+
+{{< boilerplate a11-gates >}}
+
 ### FR Landing Runway 7L/7R
 
 {{< image width="80%" link="./r7-fr.png" caption="FR Landing Runway 7" >}}
