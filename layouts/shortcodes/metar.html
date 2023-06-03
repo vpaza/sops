@@ -6,7 +6,7 @@
 
 <script type="text/javascript">
 async function getMetar{{ .Get 0 | safeJS }}() {
-  const response = await fetch("https://api.vzanartcc.net/v1/proxy/metar/{{ .Get 0 }}");
+  const response = await fetch("https://api.zanartcc.org/v1/weather/metar/{{ .Get 0 }}");
   const metar = await response.json();
   document.getElementById("airportmetar-{{ .Get 0 }}").innerHTML = metar;
 }

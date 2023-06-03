@@ -6,7 +6,7 @@
 
 <script type="text/javascript">
 async function getTAF{{ .Get 0 | safeJS }}() {
-  const response = await fetch("https://api.vzanartcc.net/v1/proxy/taf/{{ .Get 0 }}");
+  const response = await fetch("https://api.zanartcc.org/v1/weather/taf/{{ .Get 0 }}");
   const taf = await response.json();
   // Clean up the timestamp and "TAF" lines, then remove padding
   const lines = taf.split('\n');
