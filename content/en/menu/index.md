@@ -17,15 +17,15 @@ headless = true
   - [Kodiak](docs/terminal/padq)
   - [Merrill Field ATCT](docs/terminal/pamr)
   - [Military ATCT](docs/terminal/military)
+- [General Radar](docs/general/radar)
 - Approach Controls
   - [Anchorage (A11)](docs/approaches/a11)
   - [Fairbanks](docs/approaches/fai)
 - Enroute
   - [General](docs/enroute)
-  - [Central Area](docs/enroute/central)
   - [North Area](docs/enroute/north)
   - [South Area](docs/enroute/south)
-  - [West Area](docs/enroute/west)
+  - [High Area](docs/enroute/high)
   - [Oceanic](docs/enroute/oceanic)
 - Letters of Agreement
   - [CZEG](docs/loas/czeg)

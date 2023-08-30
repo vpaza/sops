@@ -1,8 +1,8 @@
 ---
-title: "Anchorage ARTCC: West Area"
+title: "Anchorage ARTCC: High Area"
 ---
 
-# Anchorage ARTCC: West Area
+# Anchorage ARTCC: High Area
 
 ## General Info
 
@@ -24,26 +24,25 @@ title: "Anchorage ARTCC: West Area"
 
 ## Sectors
 
-{{< enroute-positions area="West" >}}
+{{< enroute-positions area="High" >}}
 
 ### General
 
 1. All handoffs to sector 10 shall be done using automated handoffs and be instructed to squawk 2000 prior to communications transfer
-2. ANC arrivals should be on an arrival and descended along that to the extent possible prior to handoff with Central Area
+2. Arrivals should be on an arrival and descended along that to the extent possible prior to handoff with South Area. Aircraft not on an arrival shall be descended to the floor of
+   the appropriate sector and annotated in the datablock prior to handoff
 3. Handoffs to UHMM or ZAK shall be done via direct message or voice at least 10 minutes prior to boundary crossing with communications transfer over a fix, NAVAID, or filed
    waypoint at or prior to the boundary unless otherwise coordinated or directed by LOA
 
-### Sector 3
-
-1. TAL arrivals should receive a pilot's descent to 11,000 prior to handoff with sector 15
-2. ANC arrivals should be on an arrival and be descended along that prior to handoff with sector 5 or 6
-3. BET arrivals should be at or below FL300 appropriate for the direction of flight prior to handoff with sector 13
-
-### Sector 9
+### Sector 63
 
 No special notes
 
-### Sector 13
+### Sector 68
+
+No special notes
+
+### Sector 69
 
 No special notes
 
@@ -51,4 +50,4 @@ No special notes
 
 ### Appendix. A Area Map
 
-{{< image link="./west_area.png" width="80%" caption="West Area" >}}
+{{< image link="./high_area.png" width="80%" caption="West Area" >}}

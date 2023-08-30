@@ -31,6 +31,10 @@ The primary position shall be `FAI WR`. `FAI ER` shall only be opened with ZAN S
 
 1. Aircraft departing FAI on the Red Flag or Drill procedures are hold for release, and care should be taken that their departures will not conflict with arrivals inbound to FAI before
    releasing the departure
+2. Aircraft departing to the south, west of R-2211, and not on a Standard Instrument Departure procedure must:
+   1. Exit the Nenana Gate on an assigned heading of 220 to deconflict with arriving traffic
+   2. Exit established on an airway off the ENN VOR
+3. Aircraft departing south, east of R-2211, should exit the Eielson Gate on an assigned heading of 180
 
 ## Appendices
 
@@ -38,5 +42,4 @@ The primary position shall be `FAI WR`. `FAI ER` shall only be opened with ZAN S
 
 {{< image link="./wr-er.png" width="80%" caption="ER/WR Boundary" >}}
 
-The boundary is defined as a line that projects north/south from the Chena NDB no the northern tip of R-2211, then along the western boundary to the edge of the airspace. Also depicted is the Nenana
-Gate and Nenana Shelf.
+The boundary is defined as a line that projects north/south from the Chena NDB no the northern tip of R-2211, then along the western boundary to the edge of the airspace. Also depicts the Nenana Shelf, Nenana Gate, LIBER Gate, and Eielson Gate.

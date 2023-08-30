@@ -46,10 +46,12 @@ is the responsibility of the Radar Controller as per FAAO 7110.65 7-6-7 c(1), 2 
       2. No TRSA, but flight following: assign departure frequency and squawk
 3. Aircraft departing within FAI Class D, but not from FAI, shall be instructed to remain on the ground and contact FAI LC for departure instructions. IFR operations
    from those fields are not authorized.
+4. Aircraft departing from the Pond at FAI shall, after being given TRSA instructions, be instructed to contact FAI LC for departure instructions
 
 ## Ground Control
 
-1. Ensure all aircraft have spoken to Clearance Delivery unless they are VFR and not requesting TRSA or flight following.
+1. Ensure all aircraft have spoken to Clearance Delivery unless they are VFR and not requesting TRSA or flight following
+2. Aircraft on the pond shall be switched to LC
 
 ## Local Control
 
@@ -60,6 +62,7 @@ is the responsibility of the Radar Controller as per FAAO 7110.65 7-6-7 c(1), 2 
 4. All aircraft are assumed release for departure **except** Red Flag and Drill departure procedures, and unless otherwise coordinated
 5. Missed approach procedures shall be instructed to climb on the standard IFR heading (runway 2L/2R: 035, runway 20L/20R: runway heading) with a climb to 5000 before switching back to
    the approach controller unless otherwise requested and coordinated
+6. Ski 2/20 shall be considered same runway with regards to same runway separation and wake turbulence with 2R/20L
 
 ### Runway selection guidance
 

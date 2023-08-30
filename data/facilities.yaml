@@ -5,247 +5,256 @@ atcts:
     - position: ADQ_GND
       abbreviation: ADQ GC
       name: Kodiak Ground
-      frequency: 121.9
+      frequency: "121.9"
     - position: ADQ_TWR
       abbreviation: ADQ LC
       name: Kodiak Tower
-      frequency: 119.8
+      frequency: "119.8"
   AKN:
     hours: "1 AUG-14 JUN 0800-2000; 15 JUN-31 JUL 0800-2200"
     positions:
     - position: AKN_GND
       abbreviation: AKN GC
       name: King Salmon Ground
-      frequency: 121.9
+      frequency: "121.9"
     - position: AKN_TWR
       abbreviation: AKN LC
       name: King Salmon Tower
-      frequency: 118.3
+      frequency: "118.3"
   ANC:
     hours: Continuous
     positions:
     - position: ANC_DEL
       abbreviation: ANC CD
       name: Anchorage Delivery
-      frequency: 119.4
+      frequency: "119.4"
     - position: ANC_GND
       abbreviation: ANC GC
       name: Anchorage Ground
-      frequency: 121.9
+      frequency: "121.9"
     - position: ANC_TWR
       abbreviation: ANC LC
       name: Anchorage Tower
-      frequency: 118.3
+      frequency: "118.3"
     - position: LHD_TWR
       abbreviation: LHD LC
       name: Lake Hood Tower
-      frequency: 126.8
+      frequency: "126.8"
   BET:
     hours: "MAR-OCT MON-FRI 0630-2200, SAT-SUN 0700-2200; NOV-APR MON-FRI 0500-2100, SAT-SUN 0700-2100"
     positions:
     - position: BET_GND
       abbreviation: BET GC
       name: Bethel Ground
-      frequency: 121.7
+      frequency: "121.7"
     - position: BET_TWR
       abbreviation: BET LC
       name: Bethel Tower
-      frequency: 118.7
+      frequency: "118.7"
   BIG:
     hours: "1715-0100Z++ MON_FRI; EXC HOLS."
     positions:
     - position: BIG_GND
       abbreviation: BIG GC
       name: Allen Ground
-      frequency: 118.225
+      frequency: "118.225"
     - position: BIG_TWR
       abbreviation: BIG LC
       name: Allen Tower
-      frequency: 119.8
+      frequency: "119.8"
   EDF:
     hours: Continuous
     positions:
     - position: EDF_DEL
       abbreviation: EDF CD
       name: Elmendorf Delivery
-      frequency: 128.8
+      frequency: "128.8"
     - position: EDF_GND
       abbreviation: EDF GC
       name: Elmendorf Ground
-      frequency: 121.8
+      frequency: "121.8"
     - position: EDF_TWR
       abbreviation: EDF LC
       name: Elmendorf Tower
-      frequency: 127.2
+      frequency: "127.2"
   EIL:
     hours: Continuous
     positions:
     - position: EIL_GND
       abbreviation: EIL GC
       name: Eielson Ground
-      frequency: 121.9
+      frequency: "121.9"
     - position: EIL_TWR
       abbreviation: EIL LC
       name: Eielson Tower
-      frequency: 127.2
+      frequency: "127.2"
   ENA:
     hours: "MAY-SEP 0600-2000; OCT-APR 0700-2100"
     positions:
     - position: ENA_GND
       abbreviation: ENA GC
       name: Kenai Ground
-      frequency: 118.75
+      frequency: "118.75"
     - position: ENA_TWR
       abbreviation: ENA LC
       name: Kenai Tower
-      frequency: 121.3
+      frequency: "121.3"
   FAI:
     hours: Continuous
     positions:
     - position: FAI_DEL
       abbreviation: FAI CD
       name: Fairbanks Delivery
-      frequency: 127.6
+      frequency: "127.6"
     - position: FAI_GND
       abbreviation: FAI GC
       name: Fairbanks Ground
-      frequency: 121.9
+      frequency: "121.9"
     - position: FAI_TWR
       abbreviation: FAI LC
       name: Fairbanks Tower
-      frequency: 118.3
+      frequency: "118.3"
   FBK:
     hours: "1600-0800Z++ MON-FRI; EXC HOL"
     positions:
     - position: FBK_GND
       abbreviation: FBK GC
       name: Ladd Ground
-      frequency: 121.7
+      frequency: "121.7"
     - position: FBK_TWR
       abbreviation: FBK LC
       name: Ladd Tower
-      frequency: 125.0
+      frequency: "125.0"
   JNU:
     hours: "APR-SEP 0600-2300; OCT-MAR 0700-2000"
     positions:
     - position: JNU_GND
       abbreviation: JNU GC
       name: Juneau Ground
-      frequency: 121.9
+      frequency: "121.9"
     - position: JNU_TWR
       abbreviation: JNU LC
       name: Juneau Tower
-      frequency: 118.3
+      frequency: "118.7"
   MRI:
     hours: 0700-2200
     positions:
     - position: MRI_GND
       abbreviation: MRI GC
       name: Merrill Ground
-      frequency: 121.7
+      frequency: "121.7"
     - position: MRI_TWR
       abbreviation: MRI LC
       name: Merrill Tower
-      frequency: 126.0
+      frequency: "126.0"
 tracon:
   A11:
     positions:
     - position: ANC_N_APP
       abbreviation: A11 NR
       name: Anchorage Approach
-      frequency: 118.6
+      frequency: "118.6"
     - position: ANC_S_APP
       abbreviation: A11 SR
       name: Anchorage Approach
-      frequency: 126.4
+      frequency: "126.4"
     - position: ANC_F_APP
       abbreviation: A11 FR
       name: Anchorage Approach
-      frequency: 135.15
+      frequency: "135.15"
   FAI:
     positions:
     - position: FAI_W_APP
       abbreviation: FAI WR
       name: Fairbanks Approach
-      frequency: 125.35
+      frequency: "125.35"
     - position: FAI_E_APP
       abbreviation: FAI ER
       name: Fairbanks Approach
-      frequency: 127.1
+      frequency: "127.1"
 enroute:
-  Central:
+  South:
   - sector: 5
     position: ANC_05_CTR
-    frequency: 125.7
+    frequency: "125.7"
     hf_frequency: "N/A"
     primary: false
   - sector: 6
     position: ANC_06_CTR
-    frequency: 132.3
+    frequency: "132.3"
     hf_frequency: "N/A"
     primary: true
   - sector: 7
     position: ANC_07_CTR
-    frequency: 119.5
+    frequency: "119.5"
+    hf_frequency: "N/A"
+    primary: false
+  - sector: 8
+    position: ANC_08_CTR
+    frequency: "126.1"
     hf_frequency: "N/A"
     primary: false
   - sector: 14
     position: ANC_14_CTR
-    frequency: 119.3
+    frequency: "119.3"
     hf_frequency: "N/A"
     primary: false
   North:
-  - sector: 4
-    position: ANC_04_CTR
-    frequency: 135.3
-    hf_frequency: "N/A"
-    primary: false
-  - sector: 15
-    position: ANC_15_CTR
-    frequency: 120.9
-    hf_frequency: "N/A"
-    primary: true
-  - sector: 16
-    position: ANC_16_CTR
-    frequency: 132.7
-    hf_frequency: "N/A"
-    primary: false
-  South:
-  - sector: 8
-    position: ANC_08_CTR
-    frequency: 126.1
-    hf_frequency: "N/A"
-    primary: true
-  - sector: 68
-    position: ANC_68_CTR
-    frequency: 127.3
-    hf_frequency: "N/A"
-    primary: false
-  West:
   - sector: 3
     position: ANC_03_CTR
-    frequency: 133.3
+    frequency: "133.3"
     hf_frequency: "N/A"
-    primary: true
+    primary: false
+  - sector: 4
+    position: ANC_04_CTR
+    frequency: "135.3"
+    hf_frequency: "N/A"
+    primary: false
   - sector: 9
     position: ANC_09_CTR
-    frequency: 124.8
+    frequency: "124.8"
     hf_frequency: "N/A"
     primary: false
   - sector: 13
     position: ANC_13_CTR
-    frequency: 125.2
+    frequency: "125.2"
+    hf_frequency: "N/A"
+    primary: true
+  - sector: 15
+    position: ANC_15_CTR
+    frequency: "120.9"
     hf_frequency: "N/A"
     primary: false
+  - sector: 16
+    position: ANC_16_CTR
+    frequency: "132.7"
+    hf_frequency: "N/A"
+    primary: false
+  High:
+  - sector: 63
+    position: ANC_63_CTR
+    frequency: "125.95"
+    hf_frequency: "N/A"
+    primary: false
+  - sector: 68
+    position: ANC_68_CTR
+    frequency: "127.3"
+    hf_frequency: "N/A"
+    primary: false
+  - sector: 69
+    position: ANC_69_CTR
+    frequency: "133.8"
+    hf_frequency: "N/A"
+    primary: true
   Pacific:
   - sector: 10
     position: ZAN_10_FSS
-    frequency: 126.4
-    hf_frequency: 11.342
+    frequency: "126.4"
+    hf_frequency: "11.342"
     primary: true
   Arctic:
   - sector: 64
     position: ZAN_64_FSS
-    frequency: 126.4
-    hf_frequency: 17.925
+    frequency: "126.4"
+    hf_frequency: "17.925"
     primary: true

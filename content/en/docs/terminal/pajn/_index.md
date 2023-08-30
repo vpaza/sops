@@ -33,7 +33,10 @@ title: "Juneau"
 
 1. All IFR departures require a release from ZAN prior to departure unless coordinated otherwise
 2. When runway 26 is active for arrivals, ZAN will assign the LDA X for Runway 8 with a circle for runway 26. LC shall instruct the pilot when to discontinue and circle south for runway 26. No
-   aircraft shall circle north.
+   aircraft shall circle north
+3. While conducting SVFR operations, JNU may retain communications with departing IFR aircraft until they receive a report from the pilot of them leaving the lateral CDA/CESA airspace and/or reaching 4,500 feet MSL
+4. LC may choose to not accept an approach that is not advertised on the ATIS when traffic complexity prevents safe operations. LC doing this must advise ZAN with a reason and expected delay time for the requested
+   approach
 
 ### Runway selection guidance
 

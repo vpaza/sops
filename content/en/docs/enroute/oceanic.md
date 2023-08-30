@@ -18,7 +18,7 @@ title: "Anchorage ARTCC: Oceanic"
 
 {{< enroute-positions area="Pacific" >}}
 
-{{< image link="./pacific_10.png" width="80%" caption="Pacific Oceanic Area" >}}
+{{< image link="./pacific_area.png" width="80%" caption="Pacific Oceanic Area" >}}
 
 #### Radar Coverage
 

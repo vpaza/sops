@@ -4,9 +4,25 @@ title: "Changes"
 
 # Changes
 
+## 2023-08-29
+
+- Added [general radar procedures](docs/general/radar) page
+- Added SVFR operations to [Juneau ATCT](docs/terminal/pajn) page
+- Added ability for LC to delay arriving aircraft due to complexity to [Juneau ATCT](docs/terminal/pajn) page
+- Added JNU arrival communication transfer points to the [South Area](docs/enroute/south) page
+- Added FAI area arrival altitudes to the [North Area](docs/enroute/north) page
+- Added Nenana gate departure instructions to the [FAI TRACON](docs/approaches/fai) page
+- Added Eielson gate departure instructions to the [FAI TRACON](docs/approaches/fai) page
+- Added the LIBER Gate and Eielson Gate depictions to the [FAI TRACON](docs/approaches/fai) page, Appendix A
+- Added pond and ski strip instructions to the [FAI ATCT](docs/terminal/pafa) page
+
+## 2023-06-07
+
+- Reorganized and restructed the enroute areas and sectors to better align with real world operations and provide high/low splits for events
+
 ## 2023-06-02
 
-- Added A11 Departure/Arrival Gate information to the [A11 TRACON](docs/approaches/a11) page and [Central Area](docs/enroute/central) page
+- Added A11 Departure/Arrival Gate information to the [A11 TRACON](docs/approaches/a11) page and Central Area page
 
 ## 2023-06-01
 
@@ -32,5 +48,5 @@ title: "Changes"
 
 - Created [Bethel ATCT](docs/terminal/pabe) page
 - Created [CZEG LOA](docs/loas/czeg) page from existing LOA
-- Added A11 Gate diagram to [A11 TRACON](docs/approaches/a11) and [Central Area](docs/enroute/central) pages
+- Added A11 Gate diagram to [A11 TRACON](docs/approaches/a11) and Central Area pages
 - Added [Military ATCT](docs/terminal/military) page
