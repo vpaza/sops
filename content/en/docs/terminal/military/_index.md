@@ -4,7 +4,7 @@ title: "Military ATCTs"
 
 # Military ATCTs
 
-{{< metar "PAEI" "Eilson METAR" >}}
+{{< metar "PAEI" "Eielson METAR" >}}
 
 {{< metar "PAED" "Elmendorf METAR" >}}
 
@@ -14,7 +14,7 @@ title: "Military ATCTs"
 
 ## Positions
 
-### Eilson AFB (PAEI/EIL)
+### Eielson AFB (PAEI/EIL)
 
 {{< positions "EIL" >}}
 

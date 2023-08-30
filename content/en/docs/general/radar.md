@@ -12,7 +12,7 @@ title: "General Radar Procedures"
 
 ## Arrival Procedures
 
-1. Aircraft arriving at a towered airport shall receive coordination from the overlying radar controller of the assigned runway and approach no later than 10 miles from the Final Approach Fix or 15 miles from the 
+1. Aircraft arriving at a towered airport shall receive coordination from the overlying radar controller of the assigned runway and approach no later than 10 miles from the Final Approach Fix or 15 miles from the
    airport, whichever is sooner. If the overlying radar controller is an terminal approach control position, coordination may occur via scratchpads. All other arrival coordination must be done via voice or text
 2. Aircraft arriving at an airport with an operating Flight Service Station shall have the arrival information forwarded via voice or text no later than 30 minutes prior to arrival
 3. Arrival coordination must contain at least: aircraft callsign, aircraft type, approach, runway and estimated time of arrival

@@ -18,7 +18,7 @@ title: "Changes"
 
 ## 2023-06-07
 
-- Reorganized and restructed the enroute areas and sectors to better align with real world operations and provide high/low splits for events
+- Reorganized and restructured the enroute areas and sectors to better align with real world operations and provide high/low splits for events
 
 ## 2023-06-02
 
