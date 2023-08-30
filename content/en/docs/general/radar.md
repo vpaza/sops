@@ -4,7 +4,7 @@ title: "General Radar Procedures"
 
 # General Radar Procedures
 
-1. Upon receipt of a radar identified aircraft from another radar position has control for turns up to 90 degrees and:
+1. Upon receipt of a radar identified aircraft from another radar position, the receiving controller has control for turns up to 90 degrees and:
    1. Underlying controllers have control for descents
    2. Overlying controllers have control for climbs
 2. Controllers are permitted to change and/or assign a beacon code to an aircraft at any time. **NOTE** Beacon codes assigned by vNAS should not be changed unless there is a conflicting code.
