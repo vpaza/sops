@@ -255,6 +255,6 @@ enroute:
   Arctic:
   - sector: 64
     position: ZAN_64_FSS
-    frequency: "126.4"
+    frequency: "134.4"
     hf_frequency: "17.925"
     primary: true
