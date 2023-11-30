@@ -4,6 +4,16 @@ title: "Anchorage ARTCC"
 
 # Anchorage ARTCC
 
+## General
+
+1. The following applies to all domestic areas:
+    1. When issuing procedural altitude changes (for example, "Descend via" or "Climb via"), controllers must enter it into the data tag. Ideally, you use the gate altitude. [`QQ P130 <FLID>`](https://crc.virtualnas.net/docs/#/eram?id=qq-command)
+    2. Aircraft arriving at uncontrolled fields shall have their data tags frozen over/near the airport to which they are arriving. This tag will remain in place until the aircraft cancels IFR or reports a missed approach. [`QH F <location> <FLID>`](https://crc.virtualnas.net/docs/#/eram?id=freezing-a-track) This signifies to you and other controllers that the airspace is "closed".
+    3. Aircraft that get an IFR release from an uncontrolled field shell have data tags created at/near the airport from which they are departing. [`QT <location> <ACID>`](https://crc.virtualnas.net/docs/#/eram?id=starting-track) This signifies to you and other controllers that the airspace is "closed".
+    4. Aircraft arriving at airports with open towers that lie within terminal approach airspace shall have secondary positions opened so scratchpads can be used to coordinate arrival information with the towers.
+    5. Aircraft arriving at uncontrolled fields shall be given the current METAR (minimum wind, visibility, sky conditions and altitude) prior to conducting the approach. Approach requests *should* be entered into the 4th line. [`QS ○<free text> <FLID>`](https://crc.virtualnas.net/docs/#/eram?id=qs-command).
+    6. Speed restrictions should be entered into the 4th line of the data tag. [`QS /<speed> <FLID>`](https://crc.virtualnas.net/docs/#/eram?id=qs-command).
+
 ## Areas
 
 ### Domestic (PAZA)

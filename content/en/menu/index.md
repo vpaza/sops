@@ -29,3 +29,5 @@ headless = true
   - [Oceanic](docs/enroute/oceanic)
 - Letters of Agreement
   - [CZEG](docs/loas/czeg)
+  - [CZVR](docs/loas/czvr)
+  - [KZAK](docs/loas/kzak)

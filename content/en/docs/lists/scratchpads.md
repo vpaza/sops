@@ -18,6 +18,7 @@ The scratchpad consists of 3 characters. The first will be the approach type wit
 | Approach Type | Scratchpad |
 |---------------|------------|
 | ILS           | I          |
+| LOC/LDA       | L          |
 | RNAV/GPS      | R          |
 | Visual        | V          |
 | VOR           | O          |

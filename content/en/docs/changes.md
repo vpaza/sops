@@ -4,6 +4,13 @@ title: "Changes"
 
 # Changes
 
+## 2023-11-29
+
+- Added [KZAK LOA](docs/loas/kzak) page
+- Added [CZVR LOA](docs/loas/czvr) page
+- Added General policies to [Enroute](docs/enroute) page
+- Added LDA scratchpad entry to [Scratchpads](docs/lists/scratchpads) page
+
 ## 2023-08-29
 
 - Added [general radar procedures](docs/general/radar) page

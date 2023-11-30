@@ -5,6 +5,7 @@ ANC_06_CTR
 ANC_07_CTR
 ANC_08_CTR
 ANC_09_CTR
+ANC_13_CTR
 ANC_14_CTR
 ANC_15_CTR
 ANC_16_CTR
@@ -18,6 +19,13 @@ Chena
 CZEG_CTR
 CZEG_N_CTR
 CZEG_FSS
+CZVR_CTR
+CZVR_1_CTR
+CZVR_Z_CTR
+CZVR_H_CTR
+CZVR_N_CTR
+CZVR_W_CTR
+CZVR_E_CTR
 datablock
 deconflict
 deconflicts
@@ -26,6 +34,8 @@ Elmendorf
 Enroute
 enroute
 Fitz
+flightplan
+flightplans
 forecasted
 Greely
 Knik
@@ -40,11 +50,13 @@ NavCanada
 NDBs
 Nenana
 nm
+Parry
 pointout
 QuickLook
 R-2211
 RNAV
 RNAV-B
+Sandspit
 sectorization
 TAAs
 vatSys
@@ -54,5 +66,6 @@ VORs
 vSTARS
 Wasilla
 waypoint
+waypoints
 ZAN_10_FSS
 ZAN_64_FSS
