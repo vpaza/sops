@@ -4,6 +4,11 @@ title: "Changes"
 
 # Changes
 
+## 2024-08-26
+
+- Updated Enroute graphics with new sector information
+- Updated Enroute High sector combination information to reflect the new North Area sectors
+
 ## 2023-11-29
 
 - Added [KZAK LOA](docs/loas/kzak) page
