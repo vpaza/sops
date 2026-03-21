@@ -8,7 +8,7 @@ title: "Anchorage ARTCC: Oceanic"
 
 1. Oceanic airspace is to be controlled using the vatSys client. The vatSys client is available for download [here](https://virtualairtrafficsystem.com/). vatSys has a built-in
    method of keeping your local information up to date including sector files, plugins, etc.
-2. Please utilize the [ATOP Guide](https://cdn.vzanartcc.net/uploads/16-atops-non-radar-guide.pdf) for information on separation standards outside of radar airspace.
+2. Please utilize the [ATOP Guide](https://cdn.zanartcc.org/uploads/16-atops-non-radar-guide.pdf) for information on separation standards outside of radar airspace.
 3. Handoffs to ZAN Domestic are using automated means and communications transfer must be conducted prior to crossing the boundary.
 4. Handoffs to any other sector, unless otherwise established by LOA, will be via direct message or voice and must occur no later than 15 minutes prior to boundary crossing.
 
